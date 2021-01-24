@@ -1,0 +1,17 @@
+{
+  "name": "cuarto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Otras.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "qunit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qunit": "^2.14.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "primera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "suma.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "qunit"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "qunit": "^2.14.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "tercero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculadora.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "qunit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qunit": "^2.14.0"
+  }
+}

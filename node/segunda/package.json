@@ -1,0 +1,25 @@
+{
+  "name": "segunda",
+  "version": "1.0.0",
+  "description": "es el segundo test",
+  "main": "calculadora.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "qunit"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "qunit": "^2.14.0"
+  },
+  "dependencies": {
+    "commander": "^6.2.0",
+    "globalyzer": "^0.1.0",
+    "globrex": "^0.1.2",
+    "js-reporters": "^1.2.3",
+    "node-watch": "^0.7.1",
+    "tiny-glob": "^0.2.8"
+  }
+}
